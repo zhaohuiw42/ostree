@@ -1,3 +1,9 @@
+ostree (2024.6-1deepin4) unstable; urgency=medium
+
+  * use a custom grub message
+
+ -- wangzhaohui <wangzhaohui@uniontech.com>  Sat, 12 Oct 2024 15:21:52 +0800
+
 ostree (2024.6-1deepin3) unstable; urgency=medium
 
   * use last boot as default if GRUB_SAVEDEFAULT set in grub
