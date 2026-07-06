@@ -10,3 +10,4 @@ add-sunway-support.patch
 uri_user_password_unescape.patch
 max-speed-limit.patch
 deepin-fix-curl-mirror.patch
+deepin-preserve-existing-object-inode.patch
